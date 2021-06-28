@@ -1,5 +1,7 @@
 # FLAKY API CHALLENGE
 
+Tested on NodeJS v15.14.0
+
 Install dependencies:
 ```
 npm install
